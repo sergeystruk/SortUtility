@@ -1,0 +1,9 @@
+D:\Sergey\Visual Studio projects\SortUtil\SortTestConsole\obj\Debug\SortTestConsole.csproj.CoreCompileInputs.cache
+D:\Sergey\Visual Studio projects\SortUtil\SortTestConsole\bin\Debug\SortTestConsole.exe.config
+D:\Sergey\Visual Studio projects\SortUtil\SortTestConsole\bin\Debug\SortTestConsole.exe
+D:\Sergey\Visual Studio projects\SortUtil\SortTestConsole\bin\Debug\SortTestConsole.pdb
+D:\Sergey\Visual Studio projects\SortUtil\SortTestConsole\bin\Debug\SortUtil.dll
+D:\Sergey\Visual Studio projects\SortUtil\SortTestConsole\bin\Debug\SortUtil.pdb
+D:\Sergey\Visual Studio projects\SortUtil\SortTestConsole\obj\Debug\SortTestConsole.exe
+D:\Sergey\Visual Studio projects\SortUtil\SortTestConsole\obj\Debug\SortTestConsole.pdb
+D:\Sergey\Visual Studio projects\SortUtil\SortTestConsole\obj\Debug\SortTestConsole.csprojResolveAssemblyReference.cache
