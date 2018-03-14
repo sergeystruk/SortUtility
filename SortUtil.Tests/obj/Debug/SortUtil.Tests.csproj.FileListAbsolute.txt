@@ -1,0 +1,16 @@
+D:\EPAM\SortUtil\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\EPAM\SortUtil\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\EPAM\SortUtil\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\EPAM\SortUtil\SortUtil.Tests\bin\Debug\SortUtil.Tests.dll
+D:\EPAM\SortUtil\SortUtil.Tests\bin\Debug\SortUtil.Tests.pdb
+D:\EPAM\SortUtil\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\EPAM\SortUtil\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\EPAM\SortUtil\SortUtil.Tests\bin\Debug\SortUtil.dll
+D:\EPAM\SortUtil\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\EPAM\SortUtil\SortUtil.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\EPAM\SortUtil\SortUtil.Tests\bin\Debug\SortUtil.pdb
+D:\EPAM\SortUtil\SortUtil.Tests\obj\Debug\SortUtil.Tests.csprojResolveAssemblyReference.cache
+D:\EPAM\SortUtil\SortUtil.Tests\obj\Debug\SortUtil.Tests.csproj.CoreCompileInputs.cache
+D:\EPAM\SortUtil\SortUtil.Tests\obj\Debug\SortUtil.Tests.csproj.CopyComplete
+D:\EPAM\SortUtil\SortUtil.Tests\obj\Debug\SortUtil.Tests.dll
+D:\EPAM\SortUtil\SortUtil.Tests\obj\Debug\SortUtil.Tests.pdb

@@ -3,3 +3,9 @@ D:\Sergey\Visual Studio projects\SortUtil\SortUtil\bin\Debug\SortUtil.pdb
 D:\Sergey\Visual Studio projects\SortUtil\SortUtil\obj\Debug\SortUtil.csproj.CoreCompileInputs.cache
 D:\Sergey\Visual Studio projects\SortUtil\SortUtil\obj\Debug\SortUtil.dll
 D:\Sergey\Visual Studio projects\SortUtil\SortUtil\obj\Debug\SortUtil.pdb
+D:\EPAM\SortUtil\SortUtil\bin\Debug\SortUtil.dll
+D:\EPAM\SortUtil\SortUtil\bin\Debug\SortUtil.pdb
+D:\EPAM\SortUtil\SortUtil\obj\Debug\SortUtil.csprojResolveAssemblyReference.cache
+D:\EPAM\SortUtil\SortUtil\obj\Debug\SortUtil.csproj.CoreCompileInputs.cache
+D:\EPAM\SortUtil\SortUtil\obj\Debug\SortUtil.dll
+D:\EPAM\SortUtil\SortUtil\obj\Debug\SortUtil.pdb
